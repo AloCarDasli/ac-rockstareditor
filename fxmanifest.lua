@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 name 'nad_rockstar'
-description 'Rockstar Editor script, made by Nad#1223.'
-author 'Nad#1223'
+description 'Rockstar Editor script, made by A.C.D#3121.'
+author 'AlocardAsli'
 game 'gta5'
 
 client_scripts {
